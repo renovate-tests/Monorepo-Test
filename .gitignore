@@ -1,0 +1,11 @@
+# NPM files
+package-lock.json
+npm-shrinkwrap.json
+node_modules
+
+# Editor files
+.idea
+
+# Generated files
+*.log
+*.log.*

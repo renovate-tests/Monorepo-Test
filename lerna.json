@@ -1,0 +1,13 @@
+{
+  "lerna": "2.5.1",
+  "packages": [
+    "packages/*"
+  ],
+  "npmClient": "yarn",
+  "npmClientArgs": [
+    "--frozen-lockfile",
+    "--no-optional"
+  ],
+  "useWorkspaces": true,
+  "version": "independent"
+}
