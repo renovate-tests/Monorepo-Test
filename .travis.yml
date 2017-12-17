@@ -11,6 +11,8 @@ cache:
     - node_modules
 
 before_install:
+  - git clone --branch=master https://github.com/$TRAVIS_REPO_SLUG
+  - git reset --hard $TRAVIS_COMMIT
   - npm install yarn --global
 
 install:
