@@ -9,7 +9,5 @@
     "--no-optional"
   ],
   "useWorkspaces": true,
-  "version": "independent",
-  "access": "restricted",
-  "registry": "https://registry.npmjs.org/"
+  "version": "independent"
 }

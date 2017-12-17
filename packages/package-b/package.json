@@ -4,7 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
-    "access": "restricted",
-    "registry": "https://registry.npmjs.org/"
+    "access": "restricted"
   }
 }
