@@ -6,5 +6,8 @@
   "dependencies": {
     "@skelware/package-b": "^1.0.1",
     "jquery": "^3.2.1"
+  },
+  "publishConfig": {
+    "access": "restricted"
   }
 }

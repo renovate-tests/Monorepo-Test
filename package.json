@@ -30,16 +30,13 @@
   },
   "commitlint": {
     "extends": [
-      "@commitlint/config-conventional"
+      "@commitlint/config-conventional",
+      "registry": "https://registry.npmjs.org/"
     ]
   },
   "config": {
     "commitizen": {
       "path": "cz-lerna-changelog"
     }
-  },
-  "publishConfig": {
-    "access": "restricted",
-    "registry": "https://registry.npmjs.org/"
   }
 }
