@@ -30,8 +30,7 @@
   },
   "commitlint": {
     "extends": [
-      "@commitlint/config-conventional",
-      "registry": "https://registry.npmjs.org/"
+      "@commitlint/config-conventional"
     ]
   },
   "config": {
