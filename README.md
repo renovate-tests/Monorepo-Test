@@ -12,3 +12,7 @@ A test mono repo that will be removed soon
 [![GitHub forks](https://img.shields.io/github/forks/Skelware/Monorepo-Test.svg)](https://github.com/Skelware/Monorepo-Test/network)
 [![GitHub stars](https://img.shields.io/github/stars/Skelware/Monorepo-Test.svg)](https://github.com/Skelware/Monorepo-Test/stargazers)
 [![GitHub license](https://img.shields.io/github/license/Skelware/Monorepo-Test.svg)](https://github.com/Skelware/Monorepo-Test/blob/master/LICENSE)
+[![bitHound Code](https://www.bithound.io/github/Skelware/Monorepo-Test/badges/code.svg)](https://www.bithound.io/github/Skelware/Monorepo-Test)
+[![bitHound Dev Dependencies](https://www.bithound.io/github/Skelware/Monorepo-Test/badges/devDependencies.svg)](https://www.bithound.io/github/Skelware/Monorepo-Test/master/dependencies/npm)
+[![bitHound Dependencies](https://www.bithound.io/github/Skelware/Monorepo-Test/badges/dependencies.svg)](https://www.bithound.io/github/Skelware/Monorepo-Test/master/dependencies/npm)
+[![bitHound Overall Score](https://www.bithound.io/github/Skelware/Monorepo-Test/badges/score.svg)](https://www.bithound.io/github/Skelware/Monorepo-Test)
