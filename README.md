@@ -16,3 +16,4 @@ A test mono repo that will be removed soon
 [![bitHound Dev Dependencies](https://www.bithound.io/github/Skelware/Monorepo-Test/badges/devDependencies.svg)](https://www.bithound.io/github/Skelware/Monorepo-Test/master/dependencies/npm)
 [![bitHound Dependencies](https://www.bithound.io/github/Skelware/Monorepo-Test/badges/dependencies.svg)](https://www.bithound.io/github/Skelware/Monorepo-Test/master/dependencies/npm)
 [![bitHound Overall Score](https://www.bithound.io/github/Skelware/Monorepo-Test/badges/score.svg)](https://www.bithound.io/github/Skelware/Monorepo-Test)
+[![DeepScan Grade](https://deepscan.io/api/projects/1509/branches/5026/badge/grade.svg)](https://deepscan.io/dashboard/#view=project&pid=1509&bid=5026)
