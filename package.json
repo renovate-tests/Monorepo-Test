@@ -16,7 +16,7 @@
     "ci-lerna-publish": "bash scripts/lerna-publish.sh"
   },
   "devDependencies": {
-    "@commitlint/cli": "^5.2.5",
+    "@commitlint/cli": "^5.2.8",
     "@commitlint/config-conventional": "^5.2.3",
     "commitizen": "^2.9.6",
     "cz-lerna-changelog": "^1.2.1",
