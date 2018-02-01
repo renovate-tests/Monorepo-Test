@@ -1,4 +1,6 @@
 # Monorepo-Test
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Skelware/Monorepo-Test.svg)](https://greenkeeper.io/)
 A test mono repo that will be removed soon
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
