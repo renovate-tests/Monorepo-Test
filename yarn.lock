@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@commitlint/cli@^5.2.8":
+"@commitlint/cli@5.2.8":
   version "5.2.8"
   resolved "https://registry.yarnpkg.com/@commitlint/cli/-/cli-5.2.8.tgz#593e0d16d1d6ebba9994893a4cc933d1b212ae0c"
   dependencies:
@@ -14,7 +14,7 @@
     lodash.pick "4.4.0"
     meow "3.7.0"
 
-"@commitlint/config-conventional@^5.2.3":
+"@commitlint/config-conventional@5.2.3":
   version "5.2.3"
   resolved "https://registry.yarnpkg.com/@commitlint/config-conventional/-/config-conventional-5.2.3.tgz#63671b32b65cb68e7b238405403194b558ff559a"
 
@@ -412,7 +412,7 @@ command-join@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/command-join/-/command-join-2.0.0.tgz#52e8b984f4872d952ff1bdc8b98397d27c7144cf"
 
-commitizen@^2.9.6:
+commitizen@2.9.6:
   version "2.9.6"
   resolved "https://registry.yarnpkg.com/commitizen/-/commitizen-2.9.6.tgz#c0d00535ef264da7f63737edfda4228983fa2291"
   dependencies:
@@ -676,7 +676,7 @@ cz-customizable@^4.0.0:
     winston "2.1.0"
     word-wrap "1.1.0"
 
-cz-lerna-changelog@^1.2.1:
+cz-lerna-changelog@1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/cz-lerna-changelog/-/cz-lerna-changelog-1.2.1.tgz#2e42605555f55b2b0bc9ddf62c4d1c5f91b36858"
   dependencies:
@@ -1175,7 +1175,7 @@ hosted-git-info@^2.1.4, hosted-git-info@^2.5.0:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.5.0.tgz#6d60e34b3abbc8313062c3b798ef8d901a07af3c"
 
-husky@^0.15.0-beta.16:
+husky@0.15.0-beta.16:
   version "0.15.0-beta.16"
   resolved "https://registry.yarnpkg.com/husky/-/husky-0.15.0-beta.16.tgz#b9c2cfb2b42320e69dc92878f1511a82764cdf48"
   dependencies:
@@ -1513,7 +1513,7 @@ lcid@^1.0.0:
   dependencies:
     invert-kv "^1.0.0"
 
-lerna@^2.5.1:
+lerna@2.5.1:
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/lerna/-/lerna-2.5.1.tgz#d07099bd3051ee799f98c753328bd69e96c6fab8"
   dependencies:
